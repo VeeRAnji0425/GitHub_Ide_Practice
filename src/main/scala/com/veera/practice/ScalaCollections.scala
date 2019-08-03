@@ -23,6 +23,12 @@ object ScalaCollections {
     sets.add(25)
     println(sets)
 
+
+
+
+
+
+
   }
 
 }
