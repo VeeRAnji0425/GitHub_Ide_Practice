@@ -1,0 +1,10 @@
+OOPS In Scala:-
+--------------
+Scala Class and Object:-
+-----------------------
+
+ In Java:- everything is written in within the class only oe creating one more class, and we are creating one object. and through this object
+    we can access all these things within the object.
+
+ In Scala:- In scala we have two files, that is Scala class and object.
+
